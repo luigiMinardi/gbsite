@@ -1,0 +1,11 @@
+#mensagem-ajuda {
+	color: #dc3545;
+	padding-top: 20px;
+	padding-bottom: 10px;
+}
+#mensagem-ajuda:hover {
+	color: #C73134;
+}
+.tamanho-container {
+    max-width: 100%;
+}

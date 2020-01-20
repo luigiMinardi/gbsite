@@ -1,0 +1,7 @@
+.redes-sociais-modal {
+	color: #000;
+}
+
+.redes-sociais-modal:hover, .redes-sociais-modal:focus {
+    color: #1B59FF;
+}

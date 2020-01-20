@@ -1,0 +1,32 @@
+.mapa{
+	width: 100%;
+	height: auto;
+	min-width: 200px;
+	min-height: 100px;
+}
+
+@media (min-width: 600px) {
+    .mapa{
+	width: 600px;
+	height: 450px;
+	max-width: 160%;
+	}
+
+}
+.tamanho-container {
+	max-width: 100%;
+}
+
+.redes-sociais-nav:hover, .redes-sociais-nav:focus {
+    color: #1B59FF;
+}
+
+.redes-sociais-alert {
+	color: #000;
+	font-size: 1.25em;
+}
+
+.redes-sociais-main {
+    font-size: 3.5rem;
+    color: #000;
+}

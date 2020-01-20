@@ -1,0 +1,11 @@
+.card-img-bot {
+	object-position: 0 75%;
+}
+@media (max-width: 992px){
+    .card-img-bot {
+	object-position: 0 60%;
+	}
+}
+.card-img-top {
+	object-position: 0 25%;
+}
